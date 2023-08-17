@@ -1,0 +1,11 @@
+body{
+    padding: 10px;
+    background-color: blue;
+    display: flex;
+    align-content: center;
+}
+.{
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+}

@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+  }
+
+  .flag {
+    width: 300px;
+    height: 200px;
+    position: relative;
+  }
+
+  .stripe {
+    height: 33.33%;
+    width: 100%;
+  }
+
+  .saffron {
+    background-color: #FF9933;
+  }
+
+  .white {
+    background-color: white;
+  }
+
+  .green {
+    background-color: #138808;
+  }
+
+  .chakra {
+    position: absolute;
+    display:circle ;
+    width: 50%;
+    height: 50%;
+    left: 25%;
+    top: 25%;
+    transform-origin: center;
+    background-color: #000080;
+   }

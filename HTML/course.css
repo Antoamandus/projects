@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+.top{
+    size: 10px;
+    display: flex;
+    justify-content: space-between;  
+    margin-top: 0px;
+    background-color: red;
+}

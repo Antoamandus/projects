@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:black ;
+  }
+  
+  header {
+    background-color: #1DB954;
+    padding: 10px;
+    diplay 
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #FFF;
+    text-decoration: none;
+  }
+  a{
+    color: white;
+  }
+  main {
+    padding: 20px;
+  }
+  .playlist,
+  .album {
+    display: inline-block;
+    text-align: center;
+    margin-right: 20px;
+  }
+  h2 {
+    color: #1DB954;
+  }
+  footer {
+    background-color: #F2F2F2;
+    padding: 10px;
+    text-align: center;
+  }
+      
